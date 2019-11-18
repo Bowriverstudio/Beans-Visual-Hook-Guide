@@ -3,7 +3,7 @@ Contributors: Deftly, hellofromtonya
 Tags: Beans, Beans Framework, Beans HTML API, Development Tool, Hooks
 Donate link: https://www.paypal.me/jeffcleverley
 Requires at least: 4.6
-Tested up to: 4.9.4
+Tested up to: 5.3.0
 Requires PHP: 5.6
 Stable tag: trunk
 License: GPL v2 or later

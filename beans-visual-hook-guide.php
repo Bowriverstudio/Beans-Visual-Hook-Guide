@@ -84,7 +84,7 @@ add_action( 'switch_theme', __NAMESPACE__ . '\deactivate_when_beans_not_activate
 function deactivate_when_beans_not_activated_theme() {
 	// If Beans is the active theme, bail out.
 	$theme = wp_get_theme();
-	if ( in_array( $theme->template, array( 'beans', 'tm-beans' ), true ) ) {
+	if ( in_array( $theme->template, array( 'Beans', 'beans', 'tm-beans' ), true ) ) {
 		return;
 	}
 
